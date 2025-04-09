@@ -4,7 +4,7 @@ This project is a **Power BI dashboard** designed to analyze and visualize **pha
 
 ## 📊 Key Features
 
-- Total sales overview with KPIs
+- Total sales overview with KPI
 - Region-wise sales distribution
 - Product-wise sales comparison
 - Monthly/quarterly trends
